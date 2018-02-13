@@ -24,7 +24,7 @@ To safeguard privacy, we exclude from these files certain names that would indic
 2.  Total records after merging the files: 5,838,786
 3.  The dataset consist of total 44.2% boys and 58.8% girls
 
-## My analysis answers following questions:
+## My analysis answers the following questions:
 1. What is the most popular name by state by year?
 2. What’s the ratio of unique boys’ and girls’ names trended over time?
 3. Which names have the greatest increases and decreases (percentage difference) by year?
