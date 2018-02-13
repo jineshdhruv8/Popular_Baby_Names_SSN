@@ -20,7 +20,7 @@ To safeguard privacy, we exclude from these files certain names that would indic
 8.  I have also attached a powerpoint presentation about the insights.
 
 ## About the Baby Names Dataset
-1 . The data was collected from year range: 1910 – 2016
+1. The data was collected from year range: 1910 – 2016
 2.  Total records after merging the files: 5,838,786
 3.  The dataset consist of total 44.2% boys and 58.8% girls
 
