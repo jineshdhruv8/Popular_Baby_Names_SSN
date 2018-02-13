@@ -92,13 +92,13 @@ def write_csv_file(absolute_file_path, content_list, access_type):
 
 
 def main():
-    input_file_directory = "C:\\Users\\JINESH\\Desktop\\Lego\\*.TXT"
+    input_file_directory = "[Directory Path]*.TXT"
     output_file = "all_states_data.csv"
     header = "state,sex,year,name,count\n"
     merge_text_files(input_file_directory, output_file,header)
 
-    input_file_1 = "C:\\Users\\JINESH\\Downloads\\tmdb_5000_movies.csv"
-    input_file_2 = "C:\\Users\\JINESH\\Downloads\\tmdb_5000_credits.csv"
+    input_file_1 = "[Directory Path]\\tmdb_5000_movies.csv"
+    input_file_2 = "[Directory Path]tmdb_5000_credits.csv"
     output_file = "movie_data.csv"
 
     merge_movie_files(input_file_1,input_file_2,output_file)
